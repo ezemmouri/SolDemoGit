@@ -7,5 +7,6 @@ namespace ModelObjet
         private int idCheval;
         private string nomCheval;
         private int numCheval;
+        // Cesse tes betises
     }
 }
